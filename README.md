@@ -1,4 +1,4 @@
-# Manitoba Wheat and Rhode Island Electricity Demand
+# Manitoba Wheat Production and Rhode Island Electricity Demand
 ### 💡 I was asked to answer two questions for a Python assignment. Both questions were to be answered through Jupyter notebook files, I added them to this repo for version control and for anyone's review! 
 
 ## Question 1: Estimate the forecasted total production of Wheat or Canola for the year 2025 in Winnipeg and its surrounding areas. Show all thought processes and any supporting claims of data that leads up to your answer. ###
