@@ -18,8 +18,8 @@ Link to notebook is [here](https://github.com/connorthornhill9/manitoba_wheat_an
 
 Link to notebook is [here](https://github.com/connorthornhill9/manitoba_wheat_and_RI_demand/blob/main/Scripts/Forecaster%20Take%20Home%20-%20Rhode%20Island%20Peak%20Demand.ipynb)
 
-* I was provided with Rhose Island hourly load data to help answer the question, however, no weather data was provided.
-* I collected my own weather data from [this](https://www.timeanddate.com/weather/usa/providence/historic?month=10&year=2024) website 🌞. I only collected weather data for days surrounding October 4th, 2024 since I had to balance my time between data collection and analysis.
+* I was provided with Rhode Island hourly load data to help answer the question, however, no weather data was provided.
+* I collected weather data from [this](https://www.timeanddate.com/weather/usa/providence/historic?month=10&year=2024) website 🌞. I only collected weather data for days surrounding October 4th, 2024 since I had to balance my time between data collection and analysis.
 * **My goal** was to provide an example on how I would conduct exploratory analysis on historical data.
 * I elected to focus on feature engineering and explainin peak load based on a regression model since stakeholders find them more easy to understand (at least in my experience).
 
