@@ -1,0 +1,351 @@
+date,hour,temperature,weather,wind,humidity,barometer,visibility
+2024-09-29,1,15 °C,Overcast.,11 km/h,90%,101.77 kPa,16 km
+2024-09-29,2,14 °C,Overcast.,11 km/h,90%,101.79 kPa,16 km
+2024-09-29,3,14 °C,Overcast.,9 km/h,90%,101.75 kPa,16 km
+2024-09-29,4,14 °C,Overcast.,7 km/h,90%,101.75 kPa,16 km
+2024-09-29,5,14 °C,Overcast.,13 km/h,90%,101.75 kPa,16 km
+2024-09-29,6,14 °C,Mostly cloudy.,9 km/h,90%,101.76 kPa,16 km
+2024-09-29,7,14 °C,Mostly cloudy.,11 km/h,90%,101.80 kPa,16 km
+2024-09-29,8,15 °C,Overcast.,15 km/h,87%,101.83 kPa,16 km
+2024-09-29,9,16 °C,Overcast.,9 km/h,83%,101.84 kPa,16 km
+2024-09-29,10,16 °C,Overcast.,9 km/h,81%,101.85 kPa,16 km
+2024-09-29,11,17 °C,Overcast.,11 km/h,78%,101.87 kPa,16 km
+2024-09-29,12,17 °C,Overcast.,11 km/h,78%,101.85 kPa,16 km
+2024-09-29,13,18 °C,Overcast.,13 km/h,73%,101.82 kPa,16 km
+2024-09-29,14,19 °C,Partly sunny.,13 km/h,68%,101.75 kPa,16 km
+2024-09-29,15,20 °C,Mostly cloudy.,11 km/h,65%,101.72 kPa,16 km
+2024-09-29,16,19 °C,Mostly cloudy.,9 km/h,68%,101.69 kPa,16 km
+2024-09-29,17,19 °C,Mostly cloudy.,No wind,70%,101.67 kPa,16 km
+2024-09-29,18,18 °C,Broken clouds.,7 km/h,73%,101.66 kPa,16 km
+2024-09-29,19,18 °C,Passing clouds.,6 km/h,75%,101.69 kPa,16 km
+2024-09-29,20,17 °C,Mostly cloudy.,7 km/h,81%,101.72 kPa,16 km
+2024-09-29,21,17 °C,Overcast.,No wind,81%,101.75 kPa,16 km
+2024-09-29,22,16 °C,Overcast.,7 km/h,90%,101.75 kPa,16 km
+2024-09-29,23,15 °C,Passing clouds.,7 km/h,93%,101.73 kPa,16 km
+2024-09-29,24,14 °C,Passing clouds.,No wind,97%,101.72 kPa,16 km
+2024-09-30,1,13 °C,Clear.,No wind,100%,101.71 kPa,16 km
+2024-09-30,2,13 °C,Clear.,6 km/h,97%,101.73 kPa,16 km
+2024-09-30,3,12 °C,Clear.,9 km/h,100%,101.69 kPa,16 km
+2024-09-30,4,12 °C,Clear.,6 km/h,100%,101.69 kPa,16 km
+2024-09-30,5,12 °C,Clear.,6 km/h,100%,101.68 kPa,16 km
+2024-09-30,6,11 °C,Clear.,6 km/h,100%,101.73 kPa,16 km
+2024-09-30,7,11 °C,Scattered clouds.,6 km/h,100%,101.79 kPa,11 km
+2024-09-30,8,13 °C,Broken clouds.,No wind,97%,101.83 kPa,16 km
+2024-09-30,9,15 °C,Partly sunny.,No wind,93%,101.88 kPa,16 km
+2024-09-30,10,16 °C,Partly sunny.,7 km/h,87%,101.89 kPa,16 km
+2024-09-30,11,18 °C,Partly sunny.,13 km/h,76%,101.91 kPa,16 km
+2024-09-30,12,21 °C,Partly sunny.,13 km/h,66%,101.88 kPa,16 km
+2024-09-30,13,20 °C,Broken clouds.,11 km/h,68%,101.85 kPa,16 km
+2024-09-30,14,21 °C,Broken clouds.,13 km/h,61%,101.80 kPa,16 km
+2024-09-30,15,22 °C,Partly sunny.,11 km/h,59%,101.77 kPa,16 km
+2024-09-30,16,22 °C,Broken clouds.,15 km/h,53%,101.76 kPa,16 km
+2024-09-30,17,21 °C,Scattered clouds.,11 km/h,61%,101.77 kPa,16 km
+2024-09-30,18,19 °C,Scattered clouds.,11 km/h,70%,101.82 kPa,16 km
+2024-09-30,19,17 °C,Passing clouds.,No wind,78%,101.85 kPa,16 km
+2024-09-30,20,16 °C,Passing clouds.,No wind,87%,101.89 kPa,16 km
+2024-09-30,21,15 °C,Clear.,No wind,90%,101.92 kPa,16 km
+2024-09-30,22,14 °C,Clear.,No wind,96%,101.92 kPa,16 km
+2024-09-30,23,14 °C,Passing clouds.,No wind,93%,101.95 kPa,16 km
+2024-09-30,24,13 °C,Passing clouds.,No wind,96%,101.94 kPa,16 km
+2024-10-01,1,13 °C,Clear.,No wind,96%,101.95 kPa,16 km
+2024-10-01,2,13 °C,Clear.,11 km/h,97%,101.93 kPa,16 km
+2024-10-01,3,13 °C,Clear.,7 km/h,100%,101.92 kPa,16 km
+2024-10-01,4,13 °C,Passing clouds.,7 km/h,100%,101.93 kPa,16 km
+2024-10-01,6,13 °C,Passing clouds.,9 km/h,100%,101.94 kPa,11 km
+2024-10-01,7,14 °C,Fog.,11 km/h,100%,101.94 kPa,3 km
+2024-10-01,8,14 °C,Fog.,13 km/h,100%,101.97 kPa,2 km
+2024-10-01,9,16 °C,Partly sunny.,20 km/h,96%,101.99 kPa,16 km
+2024-10-01,10,18 °C,Broken clouds.,17 km/h,81%,102.01 kPa,16 km
+2024-10-01,11,19 °C,Partly sunny.,17 km/h,73%,101.98 kPa,16 km
+2024-10-01,12,20 °C,Broken clouds.,22 km/h,68%,101.93 kPa,16 km
+2024-10-01,13,21 °C,Partly sunny.,20 km/h,61%,101.92 kPa,16 km
+2024-10-01,14,21 °C,Partly sunny.,22 km/h,61%,101.85 kPa,16 km
+2024-10-01,15,21 °C,Partly sunny.,17 km/h,57%,101.83 kPa,16 km
+2024-10-01,16,20 °C,Cloudy.,22 km/h,63%,101.82 kPa,16 km
+2024-10-01,17,18 °C,Partly sunny.,19 km/h,70%,101.81 kPa,16 km
+2024-10-01,18,17 °C,Partly sunny.,20 km/h,73%,101.85 kPa,16 km
+2024-10-01,19,15 °C,Partly cloudy.,17 km/h,81%,101.87 kPa,16 km
+2024-10-01,20,14 °C,Passing clouds.,15 km/h,83%,101.91 kPa,16 km
+2024-10-01,21,13 °C,Passing clouds.,17 km/h,90%,101.86 kPa,16 km
+2024-10-01,22,13 °C,Passing clouds.,13 km/h,90%,101.85 kPa,16 km
+2024-10-01,23,12 °C,Passing clouds.,9 km/h,93%,101.87 kPa,16 km
+2024-10-01,24,12 °C,Passing clouds.,9 km/h,93%,101.83 kPa,16 km
+2024-10-02,1,12 °C,Passing clouds.,11 km/h,96%,101.78 kPa,16 km
+2024-10-02,2,11 °C,Clear.,9 km/h,97%,101.74 kPa,16 km
+2024-10-02,3,12 °C,Passing clouds.,No wind,96%,101.67 kPa,16 km
+2024-10-02,4,12 °C,Overcast.,7 km/h,93%,101.67 kPa,16 km
+2024-10-02,5,13 °C,Overcast.,7 km/h,90%,101.69 kPa,16 km
+2024-10-02,6,13 °C,Overcast.,11 km/h,90%,101.71 kPa,16 km
+2024-10-02,7,12 °C,Partly sunny.,13 km/h,93%,101.70 kPa,16 km
+2024-10-02,8,14 °C,Partly sunny.,13 km/h,87%,101.69 kPa,16 km
+2024-10-02,9,16 °C,Partly sunny.,9 km/h,78%,101.72 kPa,16 km
+2024-10-02,10,17 °C,Partly sunny.,15 km/h,73%,101.74 kPa,16 km
+2024-10-02,11,17 °C,Scattered clouds.,6 km/h,68%,101.74 kPa,16 km
+2024-10-02,12,17 °C,Partly sunny.,13 km/h,65%,101.75 kPa,16 km
+2024-10-02,13,18 °C,Partly sunny.,9 km/h,59%,101.70 kPa,16 km
+2024-10-02,14,18 °C,Partly sunny.,15 km/h,59%,101.64 kPa,16 km
+2024-10-02,15,19 °C,Broken clouds.,11 km/h,54%,101.61 kPa,16 km
+2024-10-02,16,20 °C,Scattered clouds.,9 km/h,55%,101.58 kPa,16 km
+2024-10-02,17,19 °C,Scattered clouds.,17 km/h,57%,101.56 kPa,16 km
+2024-10-02,18,17 °C,Partly sunny.,9 km/h,70%,101.63 kPa,16 km
+2024-10-02,19,17 °C,Partly cloudy.,11 km/h,73%,101.64 kPa,16 km
+2024-10-02,20,16 °C,Partly cloudy.,13 km/h,75%,101.71 kPa,16 km
+2024-10-02,21,16 °C,Partly cloudy.,7 km/h,78%,101.76 kPa,16 km
+2024-10-02,22,14 °C,Passing clouds.,6 km/h,87%,101.79 kPa,16 km
+2024-10-02,23,14 °C,Passing clouds.,6 km/h,87%,101.82 kPa,16 km
+2024-10-02,24,13 °C,Passing clouds.,6 km/h,93%,101.83 kPa,16 km
+2024-10-03,2,11 °C,Clear.,No wind,97%,101.86 kPa,16 km
+2024-10-03,3,11 °C,Clear.,No wind,100%,101.84 kPa,16 km
+2024-10-03,4,11 °C,Clear.,6 km/h,100%,101.85 kPa,16 km
+2024-10-03,5,11 °C,Clear.,No wind,96%,101.90 kPa,16 km
+2024-10-03,6,9 °C,Clear.,No wind,100%,101.94 kPa,16 km
+2024-10-03,7,10 °C,Fog.,No wind,96%,101.99 kPa,16 km
+2024-10-03,8,12 °C,Passing clouds.,No wind,93%,102.07 kPa,16 km
+2024-10-03,9,14 °C,Passing clouds.,No wind,87%,102.12 kPa,16 km
+2024-10-03,10,17 °C,Passing clouds.,No wind,73%,102.11 kPa,16 km
+2024-10-03,11,19 °C,Passing clouds.,6 km/h,68%,102.12 kPa,16 km
+2024-10-03,12,20 °C,Scattered clouds.,6 km/h,63%,102.10 kPa,16 km
+2024-10-03,13,20 °C,Scattered clouds.,17 km/h,63%,102.04 kPa,16 km
+2024-10-03,14,21 °C,Partly sunny.,13 km/h,61%,102.02 kPa,16 km
+2024-10-03,15,21 °C,Scattered clouds.,17 km/h,59%,101.98 kPa,16 km
+2024-10-03,16,19 °C,Broken clouds.,19 km/h,68%,102.00 kPa,16 km
+2024-10-03,17,19 °C,Broken clouds.,15 km/h,68%,102.01 kPa,16 km
+2024-10-03,18,18 °C,Partly sunny.,15 km/h,73%,102.05 kPa,16 km
+2024-10-03,19,16 °C,Passing clouds.,11 km/h,83%,102.10 kPa,16 km
+2024-10-03,20,14 °C,Passing clouds.,9 km/h,90%,102.16 kPa,16 km
+2024-10-03,21,14 °C,Clear.,6 km/h,93%,102.20 kPa,16 km
+2024-10-03,22,14 °C,Passing clouds.,6 km/h,93%,102.23 kPa,16 km
+2024-10-03,23,13 °C,Passing clouds.,No wind,97%,102.26 kPa,16 km
+2024-10-03,24,13 °C,Passing clouds.,No wind,97%,102.28 kPa,16 km
+2024-10-04,1,13 °C,Clear.,No wind,96%,102.29 kPa,16 km
+2024-10-04,2,12 °C,Clear.,No wind,96%,102.30 kPa,16 km
+2024-10-04,3,11 °C,Clear.,No wind,97%,102.29 kPa,16 km
+2024-10-04,4,11 °C,Clear.,6 km/h,100%,102.28 kPa,16 km
+2024-10-04,5,11 °C,Clear.,No wind,100%,102.31 kPa,16 km
+2024-10-04,6,11 °C,Clear.,6 km/h,100%,102.34 kPa,16 km
+2024-10-04,7,11 °C,Fog.,No wind,100%,102.37 kPa,10 km
+2024-10-04,8,13 °C,Partly sunny.,No wind,100%,102.40 kPa,16 km
+2024-10-04,9,16 °C,Partly sunny.,7 km/h,93%,102.42 kPa,16 km
+2024-10-04,10,18 °C,Partly sunny.,No wind,78%,102.43 kPa,16 km
+2024-10-04,11,20 °C,Partly sunny.,6 km/h,76%,102.39 kPa,16 km
+2024-10-04,12,21 °C,Broken clouds.,13 km/h,71%,102.35 kPa,16 km
+2024-10-04,13,21 °C,Broken clouds.,19 km/h,73%,102.32 kPa,16 km
+2024-10-04,14,21 °C,Broken clouds.,19 km/h,76%,102.29 kPa,16 km
+2024-10-04,15,21 °C,Partly sunny.,24 km/h,70%,102.25 kPa,16 km
+2024-10-04,16,20 °C,Broken clouds.,20 km/h,73%,102.21 kPa,16 km
+2024-10-04,17,19 °C,Broken clouds.,15 km/h,75%,102.20 kPa,16 km
+2024-10-04,18,18 °C,Partly sunny.,15 km/h,78%,102.17 kPa,16 km
+2024-10-04,19,17 °C,Partly cloudy.,11 km/h,83%,102.18 kPa,16 km
+2024-10-04,20,16 °C,Partly cloudy.,7 km/h,86%,102.19 kPa,16 km
+2024-10-04,21,16 °C,Partly cloudy.,7 km/h,86%,102.20 kPa,16 km
+2024-10-04,22,15 °C,Passing clouds.,9 km/h,93%,102.16 kPa,16 km
+2024-10-04,23,15 °C,Passing clouds.,6 km/h,93%,102.20 kPa,16 km
+2024-10-04,24,14 °C,Passing clouds.,No wind,96%,102.14 kPa,16 km
+2024-10-05,1,14 °C,Passing clouds.,No wind,97%,102.10 kPa,16 km
+2024-10-05,2,14 °C,Passing clouds.,No wind,96%,102.08 kPa,16 km
+2024-10-05,3,13 °C,Fog.,No wind,100%,102.00 kPa,6 km
+2024-10-05,4,13 °C,Passing clouds.,6 km/h,100%,101.98 kPa,16 km
+2024-10-05,5,12 °C,Passing clouds.,No wind,100%,101.94 kPa,13 km
+2024-10-05,6,13 °C,Passing clouds.,6 km/h,100%,101.97 kPa,16 km
+2024-10-05,7,14 °C,Mostly cloudy.,No wind,100%,102.03 kPa,16 km
+2024-10-05,8,14 °C,Mostly cloudy.,No wind,100%,102.03 kPa,16 km
+2024-10-05,9,14 °C,Cloudy.,No wind,100%,102.04 kPa,16 km
+2024-10-05,10,16 °C,Overcast.,11 km/h,93%,102.08 kPa,16 km
+2024-10-05,11,17 °C,Mostly cloudy.,15 km/h,90%,102.10 kPa,16 km
+2024-10-05,12,18 °C,Broken clouds.,17 km/h,76%,102.08 kPa,16 km
+2024-10-05,13,19 °C,Passing clouds.,22 km/h,66%,102.06 kPa,16 km
+2024-10-05,14,21 °C,Passing clouds.,13 km/h,59%,102.03 kPa,16 km
+2024-10-05,15,22 °C,Passing clouds.,19 km/h,49%,102.03 kPa,16 km
+2024-10-05,16,22 °C,Passing clouds.,26 km/h,48%,101.96 kPa,16 km
+2024-10-05,17,23 °C,Passing clouds.,17 km/h,41%,101.93 kPa,16 km
+2024-10-05,18,23 °C,Passing clouds.,19 km/h,40%,101.91 kPa,16 km
+2024-10-05,19,22 °C,Passing clouds.,15 km/h,40%,101.90 kPa,16 km
+2024-10-05,20,16 °C,Partly cloudy.,7 km/h,86%,102.19 kPa,16 km
+2024-10-07,1,12 °C,Clear.,6 km/h,0.93,101.58 kPa,16 km
+2024-10-07,2,11 °C,Clear.,No wind,0.93,101.53 kPa,16 km
+2024-10-07,3,12 °C,Passing clouds.,No wind,0.93,101.47 kPa,16 km
+2024-10-07,4,13 °C,Mostly cloudy.,No wind,0.9,101.37 kPa,16 km
+2024-10-07,5,14 °C,Passing clouds.,13 km/h,0.9,101.27 kPa,16 km
+2024-10-07,6,14 °C,Passing clouds.,15 km/h,0.87,101.21 kPa,16 km
+2024-10-07,7,14 °C,Broken clouds.,11 km/h,0.87,101.15 kPa,16 km
+2024-10-07,8,16 °C,Partly sunny.,20 km/h,0.83,101.12 kPa,16 km
+2024-10-07,9,15 °C,Heavy rain. Fog.,15 km/h,0.9,101.09 kPa,6 km
+2024-10-07,10,15 °C,Thunderstorms. Fog.,28 km/h,0.96,100.97 kPa,5 km
+2024-10-07,11,15 °C,Light rain. Fog.,19 km/h,0.96,100.98 kPa,5 km
+2024-10-07,12,15 °C,Rain. Fog.,17 km/h,1,100.98 kPa,3 km
+2024-10-07,13,16 °C,Rain. Fog.,17 km/h,1,100.91 kPa,3 km
+2024-10-07,14,17 °C,Low clouds.,11 km/h,1,100.78 kPa,11 km
+2024-10-07,15,18 °C,Partly sunny.,15 km/h,0.91,100.78 kPa,16 km
+2024-10-07,16,19 °C,Broken clouds.,17 km/h,0.84,100.78 kPa,16 km
+2024-10-07,18,17 °C,Broken clouds.,11 km/h,0.93,100.84 kPa,16 km
+2024-10-07,19,16 °C,Partly cloudy.,7 km/h,0.97,100.90 kPa,16 km
+2024-10-07,20,16 °C,Passing clouds.,No wind,0.93,100.93 kPa,16 km
+2024-10-07,21,16 °C,Passing clouds.,9 km/h,0.96,100.96 kPa,16 km
+2024-10-07,22,15 °C,Partly cloudy.,6 km/h,0.96,100.98 kPa,16 km
+2024-10-07,23,14 °C,Partly cloudy.,7 km/h,0.97,101.03 kPa,16 km
+2024-10-07,24,14 °C,Passing clouds.,6 km/h,1,101.06 kPa,16 km
+2024-10-08,1,12 °C,Clear.,9 km/h,0.97,101.07 kPa,16 km
+2024-10-08,2,11 °C,Clear.,6 km/h,0.86,101.06 kPa,16 km
+2024-10-08,3,11 °C,Clear.,9 km/h,0.83,101.00 kPa,16 km
+2024-10-08,4,11 °C,Passing clouds.,11 km/h,0.83,101.01 kPa,16 km
+2024-10-08,5,11 °C,Overcast.,6 km/h,0.83,101.01 kPa,16 km
+2024-10-08,6,9 °C,Clear.,9 km/h,0.89,101.04 kPa,16 km
+2024-10-08,7,9 °C,Scattered clouds.,9 km/h,0.86,101.08 kPa,16 km
+2024-10-08,8,11 °C,Passing clouds.,9 km/h,0.83,101.13 kPa,16 km
+2024-10-08,9,13 °C,Passing clouds.,15 km/h,0.72,101.20 kPa,16 km
+2024-10-08,10,14 °C,Passing clouds.,17 km/h,0.58,101.25 kPa,16 km
+2024-10-08,11,16 °C,Passing clouds.,17 km/h,0.52,101.23 kPa,16 km
+2024-10-08,12,16 °C,Scattered clouds.,13 km/h,0.56,101.19 kPa,16 km
+2024-10-08,13,17 °C,Passing clouds.,13 km/h,0.47,101.12 kPa,16 km
+2024-10-08,14,18 °C,Passing clouds.,13 km/h,0.43,101.09 kPa,16 km
+2024-10-08,15,19 °C,Scattered clouds.,11 km/h,0.4,101.08 kPa,16 km
+2024-10-08,16,18 °C,Scattered clouds.,17 km/h,0.38,101.08 kPa,16 km
+2024-10-08,17,17 °C,Scattered clouds.,11 km/h,0.44,101.08 kPa,16 km
+2024-10-08,18,16 °C,Scattered clouds.,7 km/h,0.48,101.11 kPa,16 km
+2024-10-08,19,13 °C,Passing clouds.,6 km/h,0.65,101.16 kPa,16 km
+2024-10-08,20,11 °C,Passing clouds.,6 km/h,0.77,101.22 kPa,16 km
+2024-10-08,21,11 °C,Passing clouds.,6 km/h,0.83,101.26 kPa,16 km
+2024-10-09,1,8 °C,Clear.,No wind,0.97,101.26 kPa,16 km
+2024-10-09,2,9 °C,Passing clouds.,7 km/h,0.93,101.21 kPa,16 km
+2024-10-09,3,9 °C,Partly cloudy.,No wind,0.96,101.17 kPa,16 km
+2024-10-09,4,10 °C,Light rain. Mostly cloudy.,17 km/h,0.93,101.19 kPa,16 km
+2024-10-09,5,11 °C,Mostly cloudy.,11 km/h,0.86,101.19 kPa,16 km
+2024-10-09,6,10 °C,Clear.,7 km/h,0.89,101.21 kPa,16 km
+2024-10-09,7,9 °C,Passing clouds.,11 km/h,0.93,101.24 kPa,16 km
+2024-10-09,8,9 °C,Passing clouds.,7 km/h,0.93,101.27 kPa,16 km
+2024-10-09,9,12 °C,Passing clouds.,No wind,0.8,101.27 kPa,16 km
+2024-10-09,10,14 °C,Passing clouds.,9 km/h,0.67,101.31 kPa,16 km
+2024-10-09,11,15 °C,Partly sunny.,15 km/h,0.56,101.28 kPa,16 km
+2024-10-09,12,16 °C,Partly sunny.,6 km/h,0.54,101.24 kPa,16 km
+2024-10-09,13,16 °C,Scattered clouds.,15 km/h,0.48,101.18 kPa,16 km
+2024-10-09,14,18 °C,Passing clouds.,17 km/h,0.43,101.10 kPa,16 km
+2024-10-09,15,17 °C,Scattered clouds.,17 km/h,0.47,101.07 kPa,16 km
+2024-10-09,16,18 °C,Scattered clouds.,22 km/h,0.42,101.03 kPa,16 km
+2024-10-09,17,17 °C,Scattered clouds.,11 km/h,0.45,101.07 kPa,16 km
+2024-10-09,18,16 °C,Scattered clouds.,7 km/h,0.46,101.08 kPa,16 km
+2024-10-09,19,13 °C,Passing clouds.,7 km/h,0.64,101.11 kPa,16 km
+2024-10-09,20,13 °C,Passing clouds.,6 km/h,0.62,101.16 kPa,16 km
+2024-10-09,21,12 °C,Passing clouds.,6 km/h,0.69,101.20 kPa,16 km
+2024-10-09,22,11 °C,Passing clouds.,6 km/h,0.77,101.23 kPa,16 km
+2024-10-09,23,9 °C,Passing clouds.,No wind,0.8,101.21 kPa,16 km
+2024-10-09,24,9 °C,Passing clouds.,7 km/h,0.74,101.23 kPa,16 km
+2024-10-10,1,10 °C,Clear.,6 km/h,0.68,101.26 kPa,16 km
+2024-10-10,2,9 °C,Clear.,17 km/h,0.71,101.23 kPa,16 km
+2024-10-10,3,9 °C,Clear.,13 km/h,0.74,101.27 kPa,16 km
+2024-10-10,4,8 °C,Clear.,13 km/h,0.77,101.26 kPa,16 km
+2024-10-10,5,8 °C,Clear.,17 km/h,0.74,101.31 kPa,16 km
+2024-10-10,6,8 °C,Passing clouds.,13 km/h,0.77,101.36 kPa,16 km
+2024-10-10,7,7 °C,Passing clouds.,11 km/h,0.8,101.43 kPa,16 km
+2024-10-10,8,8 °C,Sunny.,15 km/h,0.71,101.51 kPa,16 km
+2024-10-10,9,10 °C,Passing clouds.,15 km/h,0.63,101.55 kPa,16 km
+2024-10-10,10,12 °C,Passing clouds.,19 km/h,0.56,101.58 kPa,16 km
+2024-10-10,11,13 °C,Passing clouds.,22 km/h,0.53,101.56 kPa,16 km
+2024-10-10,12,13 °C,Passing clouds.,20 km/h,0.51,101.54 kPa,16 km
+2024-10-10,13,14 °C,Scattered clouds.,19 km/h,0.47,101.49 kPa,16 km
+2024-10-10,14,15 °C,Passing clouds.,19 km/h,0.46,101.41 kPa,16 km
+2024-10-10,15,16 °C,Scattered clouds.,24 km/h,0.41,101.40 kPa,16 km
+2024-10-10,16,16 °C,Scattered clouds.,24 km/h,0.42,101.39 kPa,16 km
+2024-10-10,17,14 °C,Scattered clouds.,22 km/h,0.46,101.41 kPa,16 km
+2024-10-10,18,13 °C,Scattered clouds.,17 km/h,0.49,101.50 kPa,16 km
+2024-10-10,19,12 °C,Passing clouds.,11 km/h,0.55,101.56 kPa,16 km
+2024-10-10,20,11 °C,Passing clouds.,9 km/h,0.61,101.65 kPa,16 km
+2024-10-10,21,10 °C,Passing clouds.,9 km/h,0.63,101.72 kPa,16 km
+2024-10-10,22,8 °C,Passing clouds.,9 km/h,0.74,101.74 kPa,16 km
+2024-10-10,23,8 °C,Passing clouds.,7 km/h,0.73,101.75 kPa,16 km
+2024-10-10,24,7 °C,Passing clouds.,9 km/h,0.76,101.75 kPa,16 km
+2024-10-11,1,7 °C,Clear.,11 km/h,0.76,101.76 kPa,16 km
+2024-10-11,2,6 °C,Clear.,7 km/h,0.85,101.78 kPa,16 km
+2024-10-11,3,5 °C,Clear.,9 km/h,0.86,101.74 kPa,16 km
+2024-10-11,4,5 °C,Clear.,11 km/h,0.86,101.70 kPa,16 km
+2024-10-11,5,5 °C,Clear.,11 km/h,0.82,101.69 kPa,16 km
+2024-10-11,6,4 °C,Clear.,9 km/h,0.89,101.70 kPa,16 km
+2024-10-11,7,4 °C,Passing clouds.,11 km/h,0.86,101.72 kPa,16 km
+2024-10-11,8,6 °C,Passing clouds.,13 km/h,0.82,101.77 kPa,16 km
+2024-10-11,9,8 °C,Passing clouds.,11 km/h,0.74,101.78 kPa,16 km
+2024-10-11,10,11 °C,Passing clouds.,11 km/h,0.66,101.71 kPa,16 km
+2024-10-11,11,13 °C,Passing clouds.,9 km/h,0.59,101.63 kPa,16 km
+2024-10-11,12,15 °C,Sunny.,17 km/h,0.54,101.56 kPa,16 km
+2024-10-11,13,17 °C,Sunny.,9 km/h,0.5,101.46 kPa,16 km
+2024-10-11,14,19 °C,Passing clouds.,20 km/h,0.4,101.37 kPa,16 km
+2024-10-11,15,20 °C,Passing clouds.,15 km/h,0.36,101.29 kPa,16 km
+2024-10-11,16,19 °C,Passing clouds.,17 km/h,0.41,101.25 kPa,16 km
+2024-10-11,17,19 °C,Passing clouds.,22 km/h,0.4,101.21 kPa,16 km
+2024-10-11,18,17 °C,Scattered clouds.,11 km/h,0.47,101.21 kPa,16 km
+2024-10-11,19,15 °C,Passing clouds.,11 km/h,0.54,101.21 kPa,16 km
+2024-10-11,20,13 °C,Passing clouds.,6 km/h,0.6,101.24 kPa,16 km
+2024-10-11,21,12 °C,Passing clouds.,9 km/h,0.64,101.21 kPa,16 km
+2024-10-11,22,12 °C,Clear.,11 km/h,0.69,101.13 kPa,16 km
+2024-10-11,23,14 °C,Clear.,15 km/h,0.6,101.06 kPa,16 km
+2024-10-11,24,12 °C,Clear.,11 km/h,0.64,101.01 kPa,16 km
+2024-10-12,1,13 °C,Clear.,9 km/h,0.6,100.96 kPa,16 km
+2024-10-12,2,14 °C,Clear.,17 km/h,0.6,100.88 kPa,16 km
+2024-10-12,3,14 °C,Clear.,20 km/h,0.6,100.81 kPa,16 km
+2024-10-12,4,13 °C,Clear.,15 km/h,0.62,100.78 kPa,16 km
+2024-10-12,5,13 °C,Clear.,11 km/h,0.67,100.75 kPa,16 km
+2024-10-12,6,12 °C,Passing clouds.,11 km/h,0.69,100.73 kPa,16 km
+2024-10-12,7,12 °C,Passing clouds.,13 km/h,0.72,100.75 kPa,16 km
+2024-10-12,8,13 °C,Passing clouds.,9 km/h,0.69,100.84 kPa,16 km
+2024-10-12,9,16 °C,Sunny.,15 km/h,0.6,100.88 kPa,16 km
+2024-10-12,10,19 °C,Sunny.,20 km/h,0.52,100.91 kPa,16 km
+2024-10-12,11,21 °C,Passing clouds.,17 km/h,0.44,100.92 kPa,16 km
+2024-10-12,12,22 °C,Passing clouds.,28 km/h,0.33,100.97 kPa,16 km
+2024-10-12,13,23 °C,Sunny.,24 km/h,0.27,100.98 kPa,16 km
+2024-10-12,14,22 °C,Passing clouds.,28 km/h,0.22,100.97 kPa,16 km
+2024-10-12,15,22 °C,Passing clouds.,30 km/h,0.17,101.01 kPa,16 km
+2024-10-12,16,22 °C,Passing clouds.,26 km/h,0.23,101.03 kPa,16 km
+2024-10-12,17,21 °C,Passing clouds.,13 km/h,0.21,101.10 kPa,16 km
+2024-10-12,18,18 °C,Passing clouds.,13 km/h,0.31,101.17 kPa,16 km
+2024-10-12,19,16 °C,Passing clouds.,11 km/h,0.36,101.29 kPa,16 km
+2024-10-12,20,14 °C,Clear.,9 km/h,0.38,101.39 kPa,16 km
+2024-10-12,21,12 °C,Clear.,11 km/h,0.45,101.46 kPa,16 km
+2024-10-12,22,11 °C,Passing clouds.,No wind,0.5,101.52 kPa,16 km
+2024-10-12,23,11 °C,Clear.,6 km/h,0.49,101.55 kPa,16 km
+2024-10-12,24,11 °C,Clear.,7 km/h,0.49,101.52 kPa,16 km
+2024-10-13,1,9 °C,Clear.,9 km/h,0.61,101.52 kPa,16 km
+2024-10-13,2,9 °C,Clear.,11 km/h,0.61,101.52 kPa,16 km
+2024-10-13,3,7 °C,Clear.,7 km/h,0.68,101.58 kPa,16 km
+2024-10-13,4,5 °C,Clear.,No wind,0.82,101.57 kPa,16 km
+2024-10-13,5,5 °C,Clear.,6 km/h,0.86,101.56 kPa,16 km
+2024-10-13,6,3 °C,Clear.,6 km/h,0.93,101.58 kPa,16 km
+2024-10-13,7,5 °C,Mostly cloudy.,No wind,0.89,101.58 kPa,16 km
+2024-10-13,8,7 °C,Overcast.,6 km/h,0.82,101.67 kPa,16 km
+2024-10-13,9,8 °C,Overcast.,No wind,0.83,101.75 kPa,16 km
+2024-10-13,10,9 °C,Overcast.,7 km/h,0.77,101.64 kPa,16 km
+2024-10-13,11,9 °C,Partly sunny.,6 km/h,0.66,101.51 kPa,16 km
+2024-10-13,12,12 °C,Overcast.,9 km/h,0.53,101.41 kPa,16 km
+2024-10-13,13,12 °C,Mostly cloudy.,15 km/h,0.49,101.33 kPa,16 km
+2024-10-13,14,13 °C,Overcast.,13 km/h,0.51,101.22 kPa,16 km
+2024-10-13,15,12 °C,Overcast.,13 km/h,0.57,101.17 kPa,16 km
+2024-10-13,16,12 °C,Mostly cloudy.,15 km/h,0.64,101.06 kPa,16 km
+2024-10-13,17,12 °C,Overcast.,15 km/h,0.69,100.98 kPa,16 km
+2024-10-13,18,11 °C,Light rain. Mostly cloudy.,15 km/h,0.77,100.96 kPa,16 km
+2024-10-13,19,10 °C,Light rain. Mostly cloudy.,11 km/h,0.89,100.88 kPa,11 km
+2024-10-13,20,10 °C,Rain. Fog.,13 km/h,0.96,100.88 kPa,8 km
+2024-10-13,21,10 °C,Overcast.,17 km/h,0.96,100.88 kPa,16 km
+2024-10-13,22,10 °C,Mostly cloudy.,11 km/h,0.96,100.85 kPa,16 km
+2024-10-13,23,10 °C,Mostly cloudy.,9 km/h,0.96,100.78 kPa,13 km
+2024-10-13,24,10 °C,Mostly cloudy.,11 km/h,0.96,100.67 kPa,16 km
+2024-10-14,1,9 °C,Low clouds.,13 km/h,0.97,100.63 kPa,14 km
+2024-10-14,2,10 °C,Low clouds.,15 km/h,0.96,100.54 kPa,13 km
+2024-10-14,3,9 °C,Thundershowers. Fog.,13 km/h,1,100.50 kPa,10 km
+2024-10-14,4,9 °C,Low clouds.,17 km/h,0.97,100.50 kPa,13 km
+2024-10-14,5,9 °C,Fog.,13 km/h,1,100.44 kPa,8 km
+2024-10-14,6,9 °C,Drizzle. Fog.,9 km/h,0.97,100.40 kPa,8 km
+2024-10-14,7,9 °C,Drizzle. Fog.,13 km/h,1,100.39 kPa,8 km
+2024-10-14,8,10 °C,Drizzle. Fog.,7 km/h,1,100.34 kPa,3 km
+2024-10-14,9,10 °C,Fog.,11 km/h,1,100.37 kPa,10 km
+2024-10-14,10,11 °C,Low clouds.,9 km/h,0.96,100.31 kPa,16 km
+2024-10-14,11,11 °C,Fog.,9 km/h,1,100.28 kPa,5 km
+2024-10-14,12,11 °C,Light rain. Fog.,6 km/h,1,100.25 kPa,2 km
+2024-10-14,13,11 °C,Fog.,9 km/h,0.97,100.18 kPa,2 km
+2024-10-14,14,12 °C,Fog.,6 km/h,0.96,100.19 kPa,2 km
+2024-10-14,15,13 °C,Mostly cloudy.,No wind,0.96,100.17 kPa,11 km
+2024-10-14,16,14 °C,Scattered clouds.,11 km/h,0.81,100.12 kPa,16 km
+2024-10-14,17,15 °C,Scattered clouds.,11 km/h,0.75,100.13 kPa,16 km
+2024-10-14,18,13 °C,Scattered clouds.,No wind,0.81,100.16 kPa,16 km
+2024-10-14,19,12 °C,Passing clouds.,11 km/h,0.86,100.23 kPa,16 km
+2024-10-14,20,12 °C,Passing clouds.,17 km/h,0.69,100.35 kPa,16 km
+2024-10-14,21,11 °C,Passing clouds.,17 km/h,0.74,100.44 kPa,16 km
+2024-10-14,22,10 °C,Passing clouds.,22 km/h,0.71,100.61 kPa,16 km
+2024-10-14,23,8 °C,Passing clouds.,24 km/h,0.68,100.70 kPa,16 km
+2024-10-14,24,7 °C,Passing clouds.,13 km/h,0.71,100.75 kPa,16 km
